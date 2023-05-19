@@ -1,0 +1,5 @@
+.venv
+metabase/plugins
+metabase/data
+postgresql/data/data
+postgresql/data/.user_scripts_initialized
