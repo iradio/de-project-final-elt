@@ -24,7 +24,9 @@ docker-compose up -d
 ```
 
 # Credentials
-Airbyte:`de_user` / `de_pass`
+Airbyte: login: `de_user`, pass: `de_pass`
+Local Postges: dbname: `de`, login: `de_user`, pass: `de_pass`
+Metabase: set up by yourself on the first launch.
 
 # Worflow
 
