@@ -8,7 +8,9 @@ Technical stack:
 - postgres
 - metabase
 
-Cosist of two repositories:
+Based on boilerplate infrastructure for Data Engineers - `de-toolkit` [https://github.com/iradio/de-toolkit](https://github.com/iradio/de-toolkit).
+
+Consist of two repositories:
 1. [ELT infrastucture](https://github.com/iradio/de-project-final-elt) 
 1. [DBT project](https://github.com/iradio/de-project-final-dbt)
 
